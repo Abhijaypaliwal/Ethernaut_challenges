@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "donate",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ethernaut11_hack.sol": "Ireentracy"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ethernaut11_hack.sol": {
+			"keccak256": "0x4116ac8a0a21de1c4826dd2dea5f8682e2f89eb4c9f659d920357ffb0a002f2b",
+			"urls": [
+				"bzz-raw://4de779f47abe0dba5bff583adfa2ea964aa105665a53b80bc86d6aebe69704a2",
+				"dweb:/ipfs/QmTXNGB3ahPtjB6TELTBwcRJXvYAzyf4AC6wa2AeFJBmaM"
+			]
+		}
+	},
+	"version": 1
+}

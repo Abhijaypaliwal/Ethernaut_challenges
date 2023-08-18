@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ethernaut6_token.sol": "attack"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ethernaut6_token.sol": {
+			"keccak256": "0x0d2730b148f1d0e13d8c543ab096f872e9c7384b0852a3ab645d68b3213118bd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fb158cc03c3f76a8468466c74217f5a2339f2756d27d16bc65d652c299ec60df",
+				"dweb:/ipfs/QmZ1sMF9LkS9hqWw2PZko2oYWxG3xGCo3feFwxUa4SSNma"
+			]
+		}
+	},
+	"version": 1
+}

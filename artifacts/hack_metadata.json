@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_target",
+						"type": "address"
+					}
+				],
+				"name": "enter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ethernaut14_gatekeeper.sol": "hack"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ethernaut14_gatekeeper.sol": {
+			"keccak256": "0xd4e986dec12cae275eb2765c29a7d6c3f101159af84cde910ed94d999b4b9e58",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1e87ed8e4c905b576802f417fff62bf894b81d8e3c29338e82cafa1a863daa4f",
+				"dweb:/ipfs/QmUrdDBWCxYtHK9gPCPkdSFqMjHf7sv5G3cW1UEJR33XoQ"
+			]
+		}
+	},
+	"version": 1
+}
